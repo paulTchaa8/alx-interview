@@ -20,8 +20,7 @@ def print_triangle(n):
         previous = ls
 
 if __name__== '__main__':
-    n = input('Entre la taille de ton triangle de pascal a creer : ')
-    print_triangle(int(n))
+    print_triangle(5)
             
             
             
